@@ -1,0 +1,39 @@
+- name: welcome
+  title: 来访者
+  class: card-welcome
+  id:
+  icon: fas fa-wifi
+  content_id: welcome-info
+  content_css: 'height:160px;overflow:hidden'
+  content_html: '<div class="welcome_swiper-container" id="welcome-container" style="width: 100%;height: 100%;margin-top: 6px">
+        <div id="welcome_container_wrapper" class="swiper-wrapper"></div>
+    </div>'
+
+- name: gonggao
+  title: 公告
+  class: card-gonggao
+  id:
+  icon: fas fa-toolbox
+  content_id: gonggao-info
+  content_css: 'height:170px;overflow:hidden'
+  content_html: '1. 因为要上学</b>，我的文章更新速度可能会一周一篇</b>，请见谅！!<br>2. 旧博客已停止全部维护，可以进入<a href="https://minecraftsep.pages.dev/"><b>此处</b></a>进行查看！<br>总访问量：<img src="https://counter5.optistats.ovh/private/freecounterstat.php?c=c3mfhp1frc7yf5saezh1yq8ujdlk5grh">'
+
+- name: webs
+  title: 网站信息
+  class: card-webs
+  id:
+  icon:  fas fa-clone
+  content_id: webs-info
+  content_css: 'height:90px;overflow:hidden'
+  content_html: '<img src="https://img.shields.io/badge/Theme-Hexo-blue?style=flat&logo=Hexo"><img src="https://img.shields.io/badge/Located%20on-Github-purple?style=flat&logo=Github"><br><img src="https://img.shields.io/badge/CDN-Vercel%20China-yellow?style=flat&logo=Vercel"><img src="https://img.shields.io/badge/Server-Vercel-green?style=flat&logo=Vercel"><br><img src="https://img.shields.io/badge/Copyright-BY--NC--SA%204.0-d42328?style=flat&logo=Claris"><br>'
+
+
+- name: digit-clock
+  title:
+  class: card-digit-clock
+  id: card-digit-clock
+  icon:
+  content_class:
+  content_id: 
+  content_html: "<script defer async pjax src='/js/custom/digit-clock.js'></script>"
+

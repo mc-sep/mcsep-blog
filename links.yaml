@@ -1,0 +1,145 @@
+banner_suffix: 
+links:
+  - class_name: 推荐博客 # 分类名称
+    descr: 参与本站开发、提供设计灵感、捐助本站的优秀博主 # 分类简介
+    type: card  # 显示方式，有两种 card / item
+    suffix: 
+    link_list:
+      - name: MC-Sep # 友链名称
+        link: https://mc-sep.js.cool/    # 友链地址
+        descr: 人生能有几回搏，天涯何处无芳草🌟   # 友链简介
+        avatar: https://cdn.luogu.com.cn/upload/usericon/942118.png # 显示头像
+        topimg: https://img.zshfoj.com/44bca9406b7b1ee7deb6e4ae873f16d12c77586fc2f4ab3c66df1dc8e0b42663.png
+        tag: Sep
+        color: vip
+      - name: Ever Fu # 友链名称
+        link: https://www.efu.me    # 友链地址
+        descr: An Open Source worker.   # 友链简介
+        avatar: https://s3.qjqq.cn/47/660a7ece07609.webp!color # 显示头像
+        topimg: https://s3.qjqq.cn/47/660a7ece07609.webp!color # 如果是card模式下，将显示
+        tag: efu
+        color: vip
+      - name: 张洪Heo # 友链名称
+        link: https://blog.zhheo.com/    # 友链地址
+        descr: 分享设计与科技生活   # 友链简介
+        avatar: https://bu.dusays.com/2022/12/28/63ac2812183aa.png # 显示头像
+        topimg: https://i.mjj.rip/2024/05/19/fd4c0efb622a8dd2ca0a7f55c65c6f72.png # 如果是card模式下，将显示
+        tag: Heo
+        color: vip
+  - class_name: 科技
+    descr: 以科技为主的小伙伴
+    type: item
+    suffix: 
+    link_list:
+      # - name: serverDream   # 友链名称
+        # link: https://serpblog.github.io/    # 友链地址
+        # avatar: https://cdn.luogu.com.cn/upload/usericon/332771.png  # 显示头像
+        # descr:     # 友链简介
+      - name: Minecraft-Frp   # 友链名称
+        link: https://frpblog1.github.io/    # 友链地址
+        avatar: https://img.zshfoj.com/e791d9fce29774c25cc9d84331c3f2378d23ea765e39b67a2f34b971eba269d2.png  # 显示头像
+        descr: Best friend with Minecraft-Sep    # 友链简介
+      # - name: 青桔气球
+        # link: https://blog.qjqq.cn/
+        # avatar: https://avatar.qjqq.cn/1/6503bb1b7fa1a.webp!avatar
+        # descr: 分享网络安全与科技生活
+      - name: 虎了吧唧
+        link: https://blog.hulebaji.me
+        avatar: https://cravatar.cn/avatar/c126bb295caa6f29cbbd32083708cda4?d=identicon
+        descr: 研墨成浆，提笔思量
+      - name: isYangs Blog
+        link: https://isyangs.cn
+        avatar: https://7.isyangs.cn/8/655c9835780a0-8.jpg
+        descr: 一个前端Bug构造师的博客
+      - name: HiPeach
+        link: https://blog.opeach.cn
+        avatar: https://npm.elemecdn.com/opicture@1.0.0/main/avatar.webp
+        descr: 妙不可言
+      - name: 静若安然
+        link: https://www.imets.cn
+        avatar: https://www.imets.cn/favicon.ico
+        descr: 一个宁静的世界
+      - name: 雾林博客
+        link: https://www.baiwulin.com
+        avatar: https://cravatar.cn/avatar/6069656389d12d0741da383e40f82e8f?s=400
+        descr: 首听未闻曲中意，再听已是曲中人
+      - name: 探人间
+        link: https://www.hydsb0.com
+        avatar: https://bu.dusays.com/2023/07/10/64abbf448d530.jpg
+        descr: 努力吃上更贵的雪糕！
+      - name: 网络一隅／Net`Cornerr
+        link: https://cloud.sd.cn/
+        avatar:  https://ipfs.crossbell.io/ipfs/QmPv8huiCrnyDkGWHCNnd16vrpmZqt2TpVauhDuMv16Cok
+        descr: 愿我的祝福与你同在！
+      - name: 星辰博客
+        link: https://blog.starchen.top
+        avatar: https://blog.starchen.top/favicon.jpg
+        descr: 以热爱之名，点亮技术探索者的漫长岁月！
+      - name: Thun888's Blog
+        link: https://blog.hzchu.top/
+        avatar: https://blog.hzchu.top/img/avatar.webp
+        descr: 夏日当空,心如深渊
+      - name: 桜紺狸の部落阁
+        link: https://www.skira.top
+        avatar: https://www.skira.top/img/lemonsuka.webp
+        descr: 一个闲聊萌新动漫技术交流站
+      - name: LinuxWin🍉
+        link: https://meoblog.pages.dev
+        avatar: https://gcore.jsdelivr.net/gh/LinuxWin232/cdn@main/meo.png
+        descr: 青，取之于蓝，而青于蓝
+      - name: 青稚的空间
+        link: https://blog.linux-qitong.top/
+        avatar: https://blog.linux-qitong.top/img/avatar.jpg
+        descr: 越努力，越幸运.
+        
+  - class_name: 生活
+    descr: 以日常为主的小伙伴
+    type: item
+    suffix: 
+    link_list:
+      - name: Efu # 友链名称
+        link: https://www.efu.me    # 友链地址
+        descr: An Open Source worker.   # 友链简介
+        avatar: https://s3.qjqq.cn/47/660a7ece07609.webp!color # 显示头像
+        topimg: https://s3.qjqq.cn/47/660a7ece07609.webp!color # 如果是card模式下，将显示
+      - name: 张洪Heo # 友链名称
+        link: https://blog.zhheo.com/    # 友链地址
+        descr: 分享设计与科技生活   # 友链简介
+        avatar: https://bu.dusays.com/2022/12/28/63ac2812183aa.png # 显示头像
+        topimg: https://i.mjj.rip/2024/05/19/fd4c0efb622a8dd2ca0a7f55c65c6f72.png # 如果是card模式下，将显示
+      # - name: 网联基地
+       # link: https://www.wubase.com/
+        # descr: 云服务器评测，分享国内外VPS、网站服务器等资讯
+        # avatar: https://s21.ax1x.com/2024/05/16/pknrxxI.png
+      - name: 听闻 All in the game.
+        link: https://www.sangxuesheng.com
+        descr: 一个爱折腾的boy。
+        avatar: https://pic.imgdb.cn/item/5feca8273ffa7d37b3209e66.jpg
+
+  - class_name: 服务
+    descr: 为本站提供服务的网站
+    type: item
+    suffix: 
+    link_list:
+      - name: 博客大全
+        link: https://daohang.lusongsong.com/
+        descr: 收录独立博客、个人博客、微博、BSP博客、个人网站
+        avatar: https://www.imets.cn/uploads/2024/03/1341495250.png
+      - name: 博客录
+        link: https://boke.lu/
+        descr: boke.lu · 博客收录展示平台~
+        avatar: https://www.imets.cn/uploads/2024/03/2815380543.png
+      - name: 笔墨迹
+        link: https://blogscn.fun
+        descr: 致敬还在写博客的我们！
+        avatar: https://photo.xiangming.site/img/blogscn_icon.png
+       
+  - class_name: 失联
+    descr: 失联的朋友们
+    type: discn
+    suffix: 
+    link_list:
+      - name: 点滴记忆（未加本站）
+      - name: 青桔气球（未加本站）
+      - name: 网联基地（未加本站）
+      - name: serverDream（访问时间过长）
