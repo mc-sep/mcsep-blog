@@ -1,4 +1,4 @@
-简体中文 | [English]()
+简体中文 | [English](https://github.com/mc-sep/mcsep-blog/blob/main/README-en.md)
 
 # MC-Sep's Blog
 
